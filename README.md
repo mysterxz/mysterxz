@@ -1,14 +1,14 @@
-##😀Oii Eu sou o Kaique!!!
+##Oii Eu sou o Kaique!!!
 ---
-💼 Profissional atuando na área de Tecnologia da Informação como Auxiliar de TI, adquirindo experiência prática com suporte técnico, rotinas operacionais, organização de sistemas e resolução de problemas do ambiente tecnológico.
+ Profissional atuando na área de Tecnologia da Informação como Auxiliar de TI, adquirindo experiência prática com suporte técnico, rotinas operacionais, organização de sistemas e resolução de problemas do ambiente tecnológico.
 
-🚀 Desenvolvedor em formação, apaixonado por tecnologia e pela criação de sistemas que geram valor real para pessoas e empresas. Possuo grande interesse em desenvolvimento de software, interfaces modernas e soluções eficientes, sempre buscando evolução constante e aprendizado contínuo.
+ Desenvolvedor em formação, apaixonado por tecnologia e pela criação de sistemas que geram valor real para pessoas e empresas. Possuo grande interesse em desenvolvimento de software, interfaces modernas e soluções eficientes, sempre buscando evolução constante e aprendizado contínuo.
 
-📚 Graduando em Análise e Desenvolvimento de Sistemas pela Universidade de São Caetano do Sul (USCS), atualmente no 1º semestre, desenvolvendo conhecimentos em lógica de programação, desenvolvimento web, banco de dados e boas práticas de engenharia de software.
+ Graduando em Análise e Desenvolvimento de Sistemas pela Universidade de São Caetano do Sul (USCS), atualmente no 1º semestre, desenvolvendo conhecimentos em lógica de programação, desenvolvimento web, banco de dados e boas práticas de engenharia de software.
 
-🎯 Objetivo profissional: construir carreira sólida como desenvolvedor, participando de projetos inovadores, aprimorando competências técnicas e contribuindo ativamente para o crescimento tecnológico das organizações.
+ Objetivo profissional: construir carreira sólida como desenvolvedor, participando de projetos inovadores, aprimorando competências técnicas e contribuindo ativamente para o crescimento tecnológico das organizações.
 
-💡 Perfil proativo, comprometido com resultados, com facilidade de aprendizado, foco em evolução profissional e grande motivação para enfrentar novos desafios na área de desenvolvimento.
+ Perfil proativo, comprometido com resultados, com facilidade de aprendizado, foco em evolução profissional e grande motivação para enfrentar novos desafios na área de desenvolvimento.
 ##
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mysterxz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -56,13 +56,13 @@
 
 ---
 
-# ⚡ Sobre mim
+#  Sobre mim
 
-- 💻 Apaixonado por programação
-- 📚 Sempre aprendendo novas tecnologias
-- 🚀 Focado em evoluir como desenvolvedor
-- 🤝 Aberto a colaborar em projetos
+- Apaixonado por programação
+- Sempre aprendendo novas tecnologias
+- Focado em evoluir como desenvolvedor
+- Aberto a colaborar em projetos
 
 ---
 
-⭐ **Obrigado por visitar meu perfil!**
+ **Obrigado por visitar meu perfil!**
